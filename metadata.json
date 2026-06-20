@@ -1,0 +1,6 @@
+{
+  "name": "TempInbox",
+  "description": "Instant, disposable temporary email service for receiving OTPs and protecting your privacy. Fast, secure, and auto-destructing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
